@@ -12,8 +12,8 @@ Right now, alongside web scraping and automation, I'm diving into app and web de
 
 ### 🚀 Quick Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_NICKNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daniil's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_NICKNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=bereslavsky1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daniil's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereslavsky1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
