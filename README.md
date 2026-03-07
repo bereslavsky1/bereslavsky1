@@ -10,10 +10,10 @@ Right now, alongside web scraping and automation, I'm diving into app and web de
 
 ---
 
-### 📊 My Stats & Activity
+### 📈 Language Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereslavsky1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Daniil's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereslavsky1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bereslavsky1&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bereslavsky1&theme=tokyonight" height="150" />
 </p>
 
 ---
