@@ -8,16 +8,6 @@ Right now, alongside web scraping and automation, I'm diving into app and web de
 
 **The Endgame:** Solve real-world problems, build something massively useful, and eventually found my own tech company. Right now? I'm just a beginner obsessed with the process.
 
----
-
-### 🚀 Quick Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bereslavsky1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daniil's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereslavsky1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,33 +18,10 @@ Right now, alongside web scraping and automation, I'm diving into app and web de
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />
 </p>
 
----
-
-### ⚡ What I'm Up To
-- 🔭 **Working on:** Automation scripts and web scrapers.
-- 🌱 **Learning:** Advanced Web Dev & UI/UX principles.
-- 🎨 **Interests:** Minimalist design & Tech-driven fashion.
-- 💬 **Ask me about:** Why "smooth" UX is non-negotiable.
-
----
 
 ## 🐍 My Contributions Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bereslavsky1/bereslavsky1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bereslavsky1/bereslavsky1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bereslavsky1/bereslavsky1/output/github-contribution-grid-snake.svg">
 </picture>
-### 📬 Let's Connect
-<p align="left">
-  <a href="mailto:daniilbereslavsky@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-</p>
