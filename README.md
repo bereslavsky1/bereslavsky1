@@ -37,7 +37,9 @@ Right now, alongside web scraping and automation, I'm diving into app and web de
 - 💬 **Ask me about:** Why "smooth" UX is non-negotiable.
 
 ---
-![github contribution grid snake animation](https://github.com/ТВОЙ_НИКНЕЙМ/ТВОЙ_НИКНЕЙМ/blob/output/github-contribution-grid-snake.svg)
+
+## 🐍 My Contributions Snake
+![github contribution grid snake animation](https://raw.githubusercontent.com/bereslavsky1/bereslavsky1/output/github-contribution-grid-snake.svg)
 
 ### 📬 Let's Connect
 <p align="left">
