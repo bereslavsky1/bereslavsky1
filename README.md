@@ -39,8 +39,12 @@ Right now, alongside web scraping and automation, I'm diving into app and web de
 ---
 
 ## 🐍 My Contributions Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/bereslavsky1/bereslavsky1/output/github-contribution-grid-snake.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bereslavsky1/bereslavsky1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bereslavsky1/bereslavsky1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bereslavsky1/bereslavsky1/output/github-contribution-grid-snake.svg">
+</picture>
 ### 📬 Let's Connect
 <p align="left">
   <a href="mailto:daniilbereslavsky@gmail.com">
