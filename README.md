@@ -8,20 +8,47 @@ Right now, alongside web scraping and automation, I'm diving into app and web de
 
 **The Endgame:** Solve real-world problems, build something massively useful, and eventually found my own tech company. Right now? I'm just a beginner obsessed with the process.
 
-<br>
+---
+
+### 🚀 Quick Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_NICKNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daniil's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_NICKNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />
 </p>
 
-<br>
+---
 
-### 📊 My Stats
+### ⚡ What I'm Up To
+- 🔭 **Working on:** Automation scripts and web scrapers.
+- 🌱 **Learning:** Advanced Web Dev & UI/UX principles.
+- 🎨 **Interests:** Minimalist design & Tech-driven fashion.
+- 💬 **Ask me about:** Why "smooth" UX is non-negotiable.
+
+---
+![github contribution grid snake animation](https://github.com/ТВОЙ_НИКНЕЙМ/ТВОЙ_НИКНЕЙМ/blob/output/github-contribution-grid-snake.svg)
+
+### 📬 Let's Connect
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereslavsky1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereslavsky1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+  <a href="mailto:daniilbereslavsky@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
