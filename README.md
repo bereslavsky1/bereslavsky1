@@ -8,6 +8,16 @@ Right now, alongside web scraping and automation, I'm diving into app and web de
 
 **The Endgame:** Solve real-world problems, build something massively useful, and eventually found my own tech company. Right now? I'm just a beginner obsessed with the process.
 
+---
+
+### 📊 My Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bereslavsky1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Daniil's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereslavsky1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+---
+
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -18,10 +28,20 @@ Right now, alongside web scraping and automation, I'm diving into app and web de
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />
 </p>
 
+---
 
-## 🐍 My Contributions Snake
+### 🐍 My Contributions Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bereslavsky1/bereslavsky1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bereslavsky1/bereslavsky1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bereslavsky1/bereslavsky1/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### 📬 Let's Connect
+<p align="left">
+  <a href="mailto:daniilbereslavsky@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
