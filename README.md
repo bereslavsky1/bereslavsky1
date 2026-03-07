@@ -1,21 +1,27 @@
-# ⚡ Hi, I'm bereslavsky1
+# Hi, I'm danii ~
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33FF57&vCenter=true&width=435&lines=beginner+coding+for+fun+~;building+automation+tools;exploring+Python+" alt="Typing SVG" />
-</p>
+I got into tech while trying to figure out what to do with my life, and it just clicked. For me, programming isn't just about writing code—it's the exact place where creativity, perfectionism, and real business meet.
+
+I'm not here just to write random scripts. My absolute favorite part is building a **product**. I love taking a raw idea, building it from scratch, and polishing every single detail until someone uses it and genuinely goes, "Wow, this is smooth." 
+
+Right now, alongside web scraping and automation, I'm diving into app and web development. Outside of the code editor, I have a strong interest in design, fashion, and style. I like to keep things fun and humorous, but when it comes to my goals, I'm dead serious.
+
+**The Endgame:** Solve real-world problems, build something massively useful, and eventually found my own tech company. Right now? I'm just a beginner obsessed with the process.
+
+<br>
 
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<br>
+
 ### 📊 My Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereslavsky1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="bereslavsky1's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereslavsky1&theme=tokyonight&hide_border=true&background=0D1117" alt="bereslavsky1's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bereslavsky1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereslavsky1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
 </p>
-
----
-💬 **Hit me up:** [daniilbereslavsky@gmail.com](mailto:daniilbereslavsky@gmail.com)
